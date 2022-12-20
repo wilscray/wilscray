@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wilscray
-- 👀 I’m interested in ai
-- 🌱 I’m currently learning ai
-- 💞️ I’m looking to collaborate on ai
+- 👀 I’m interested in minecraft
+- 🌱 I’m currently learning modding for minecraft
+- 💞️ I’m looking to collaborate on minecraft
 - 📫 How to reach my discord - crayfish #6074
 
 <!---
