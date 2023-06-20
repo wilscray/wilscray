@@ -2,7 +2,7 @@
 - 👀 I’m interested in minecraft
 - 🌱 I’m currently learning modding for minecraft
 - 💞️ I’m looking to collaborate on minecraft
-- 📫 How to reach my discord - crayfish #6074
+- 📫 How to reach my discord - wilscray
 
 <!---
 wilscray/wilscray is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
