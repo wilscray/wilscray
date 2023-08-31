@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wilscray
-- 👀 I’m interested in minecraft
-- 🌱 I’m currently learning modding for minecraft
-- 💞️ I’m looking to collaborate on minecraft
+- 👀 I’m interested in modding games 
+- 🌱 I’m currently learning modding
+- 💞️ I’m looking to collaborate on games
 - 📫 How to reach my discord - wilscray
 
 <!---
